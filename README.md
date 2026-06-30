@@ -24,8 +24,6 @@ The expected structure is:
 ```text
 ML-experiments-on-ARP-spoofing-detection/
 │
-├── results/...
-│
 ├── data/
 │   ├── ARP_MitM_dataset.csv
 │   ├── ARP_MitM_labels.csv
